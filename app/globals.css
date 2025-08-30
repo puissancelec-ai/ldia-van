@@ -1,0 +1,3 @@
+:root { --bg:#0b0f14; --text:#e6f0ff; }
+html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:system-ui,sans-serif}
+a{color:#4da3ff;text-decoration:none}
